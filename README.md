@@ -8,11 +8,8 @@ Data Analyst with over 6 years of experience in the Health and Benefits industry
 # 💻 Tech Stack:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuscanogladys-DA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"Without data, you're just another person with an opinion." — W. Edwards Deming
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tuscanogladys-DA&limit=5&theme=dark&combine_all_yearly_contributions=true)
