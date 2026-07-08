@@ -1,16 +1,23 @@
-## Hi there 👋
+# 💫 About Me:
+Data Analyst with over 6 years of experience in the Health and Benefits industry supporting US-based consulting teams. Expert in financial forecasting, healthcare cost analysis, risk management, and transforming complex datasets into actionable business insights. Skilled in advanced Excel, Power BI, SQL server, and ETL workflows. Known for accuracy, strong data validation, and clear communication to both technical and non-technical stakeholders. Experienced at collaborating with cross-functional and cross-border teams to deliver client-ready analytical reports in a fast-paced environment.
 
-<!--
-**tuscanogladys-DA/tuscanogladys-DA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gladys-tuscano-data-analyst) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tuscanogladys-DA&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tuscanogladys-DA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=tuscanogladys-DA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
