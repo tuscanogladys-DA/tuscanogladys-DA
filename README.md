@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analyst with over 6 years of experience in the Health and Benefits industry supporting US-based consulting teams. Expert in financial forecasting, healthcare cost analysis, risk management, and transforming complex datasets into actionable business insights. Skilled in advanced Excel, Power BI, SQL server, and ETL workflows. Known for accuracy, strong data validation, and clear communication to both technical and non-technical stakeholders. Experienced at collaborating with cross-functional and cross-border teams to deliver client-ready analytical reports in a fast-paced environment.
+Data Analyst with over 6 years of experience in the Health and Benefits industry supporting US-based consulting teams. Expert in financial forecasting, healthcare cost analysis, risk management, and transforming complex datasets into actionable business insights. Skilled in advanced Excel, Power BI, DAX, SQL server, and ETL workflows. Known for accuracy, strong data validation, and clear communication to both technical and non-technical stakeholders. Experienced at collaborating with cross-functional and cross-border teams to deliver client-ready analytical reports in a fast-paced environment.
 
 
 ## 🌐 Socials:
